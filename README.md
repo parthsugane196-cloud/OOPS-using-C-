@@ -4,7 +4,7 @@ A collection of C++ programs covering core Object-Oriented Programming concepts,
 
 ---
 
-## 📁 File Overview
+##  File Overview
 
 | File | Topic |
 |------|-------|
@@ -28,7 +28,7 @@ A collection of C++ programs covering core Object-Oriented Programming concepts,
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 - **Classes & Objects** — defining blueprints and creating instances
 - **Encapsulation** — using `private`/`public`/`protected` access specifiers
@@ -57,14 +57,3 @@ g++ BankAccount.cpp -o bank
 ```
 
 ---
-
-## 📌 Notes
-
-- Some files (e.g., `Class03.cpp`, `Class01.cpp`) contain minor syntax errors intentionally left as learning exercises.
-- Programs are beginner-friendly and focused on concept clarity over complexity.
-
----
-
-## 👤 Author
-
-Learning C++ OOP — feel free to fork, explore, and build on these examples!
